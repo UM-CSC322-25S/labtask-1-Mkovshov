@@ -1,0 +1,5 @@
+Program's Parent Process: Shell
+
+Process' Parent Process: Root
+
+Process' Parent Process: Operating System
